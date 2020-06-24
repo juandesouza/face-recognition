@@ -1,0 +1,15 @@
+.boundingbox {
+  position: absolute;
+  box-shadow: 0 0 0 3px #19f;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+@media (min-width: 700px) {
+  .heyy {
+    left: 50%;
+    margin-left: -250px;
+  }
+}
